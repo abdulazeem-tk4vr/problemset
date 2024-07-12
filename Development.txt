@@ -1,0 +1,36 @@
+Cryptocurrency Engineering And Design : Nov 22nd to Dec 11th [20] 
+
+Node js - FreeCodeCamp : Dec 1 to Dec 7th
+Advanced Node js - Udemy : Dec 8th to Dec 21st
+
+Then continue working on the DSA, Algorithm and OS Classes
+----------------------------------------------------------
+
+Work on what today :
+- MIT Course Videos [ 10 - 12 ]
+
+Work to do on Rust :
+-  Concurrency
+-  Macros
+-  Web Server
+-  Lifetimes
+-  Use it for the multi threaded project
+
+
+
+
+
+Today : 
+- Go through the code for Lost.ts and Apoptosize.ts
+- Try to replicate it
+- 2 Bananas and Peanut Butter
+- Gym
+- Protein Shake and Fruits
+
+
+
+
+
+
+
+

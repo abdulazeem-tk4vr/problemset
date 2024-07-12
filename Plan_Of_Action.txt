@@ -1,0 +1,15 @@
+75 Days -> 225 Questions
+3 Questions everyday 
+
+- Dynamic Programming (56)
+- Graphs (54)
+ = 110
+
+- Binary Trees (39)
+- Binary Search Trees (16)
+- Recursion (25)
+ = 80
+
+- Greedy Algorithms (16)
+- Bit Manipulation (18)
+ = 34
